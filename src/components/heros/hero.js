@@ -10,7 +10,7 @@ const device = {
 }
 
 const HeroWrapper = styled.div`
-  background: url("../../images/hero.jpg"), rgba(255, 255, 255, 0.8);
+  background: url("../../images/hero.jpg"), rgba(0, 0, 0, 0.7);
   background-blend-mode: overlay;
   background-position: center;
   background-size: cover;
@@ -27,7 +27,9 @@ const HeroWrapper = styled.div`
   }
 `
 
-const Text = styled.div``
+const Text = styled.div`
+  color: var(--txt-light);
+`
 
 const Img = styled.div`
   @media screen and (max-width: 48em) {
@@ -70,9 +72,14 @@ export default function HeroBasic() {
       <Container>
         <Flex>
           <Text className="spacing">
-            <h1 className="title caps bold">
-              full-service glass, window, & door contractor in Calgary, AB
-            </h1>
+            <div>
+              <p className="italics upper">
+                we have 25 years of experience as a
+              </p>
+              <h1 className="title caps bold">
+                full-service glass, window, & door contractor in Calgary, AB
+              </h1>
+            </div>
             <ListFlex>
               <ul>
                 <li>
@@ -113,10 +120,10 @@ export default function HeroBasic() {
             <ButtonPrimary to="/contact">get free estimate</ButtonPrimary>
           </Text>
           <Img>
-            <StaticImage
+            {/* <StaticImage
               src="../../images/best-glass-contractor-calgary.svg"
               alt="best glass contractor calgary"
-            />
+            /> */}
           </Img>
         </Flex>
       </Container>

@@ -52,7 +52,8 @@ export default function Guarantee() {
     <Section>
       <Container className="spacing">
         <h2 className="title caps italics center bold">
-          we'll give you one less thing to worry about - hiring the right crew
+          From small jobs to large projects our skilled professionals will meet
+          every expectation
         </h2>
         <GridWrapper>
           <Img>
@@ -112,7 +113,7 @@ export default function Guarantee() {
                 <FaCut />
                 <h4 className="caps bold">cost savings</h4>
                 <p>
-                  We';; find the best products for the job to help save you
+                  We'll find the best products for the job to help save you
                   money.
                 </p>
               </Item>

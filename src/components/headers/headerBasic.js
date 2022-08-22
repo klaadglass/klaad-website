@@ -103,7 +103,7 @@ const NavList = styled.ul`
     display: ${({ nav }) => (nav ? "flex" : "none")};
     align-items: center;
     position: absolute;
-    top: 82px;
+    top: 194px;
 
     left: 0;
     right: 0;
@@ -287,6 +287,11 @@ export default function HeaderBasic() {
                     <li>
                       <StyledLink to="/services/storm-doors-calgary">
                         storm doors
+                      </StyledLink>
+                    </li>
+                    <li>
+                      <StyledLink to="/services/other-glass-services">
+                        other
                       </StyledLink>
                     </li>
                   </ul>
