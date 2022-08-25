@@ -104,7 +104,7 @@ export default function HomeWindowRepair() {
                 </ButtonUnderline>
               </div>
               <StaticImage
-                src="../../images/residential/large-home-window-installation-calgary.jpg"
+                src="../../images/services/residential/large-home-window-installation-calgary.jpeg"
                 alt="large home window installation calgary"
                 className="stretch"
               />
@@ -162,14 +162,14 @@ export default function HomeWindowRepair() {
                 </ButtonUnderline>
               </div>
               <StaticImage
-                src="../../images/residential/window-defogging-calgary.jpg"
+                src="../../images/services/residential/window-defogging-calgary.jpg"
                 alt="window defogging calgary"
                 className="stretch"
               />
             </Flex>
             <FlexMobileOpp>
               <StaticImage
-                src="../../images/residential/calgary-triple-pane-window-upgrades.jpg"
+                src="../../images/services/residential/calgary-triple-pane-window-upgrades.jpeg"
                 alt="calgary triple pane window upgrades"
                 className="stretch"
               />
@@ -215,14 +215,14 @@ export default function HomeWindowRepair() {
                 </ButtonUnderline>
               </div>
               <StaticImage
-                src="../../images/residential/window-rot-repair-calgary.jpg"
+                src="../../images/services/residential/window-rot-repair-calgary.jpg"
                 alt="window rot repair calgary"
                 className="stretch"
               />
             </Flex>
             <FlexMobileOpp>
               <StaticImage
-                src="../../images/residential/skylight-repair-calgary.jpg"
+                src="../../images/services/residential/skylight-repair-calgary.jpg"
                 alt="skylight repair calgary"
                 className="stretch"
               />
@@ -272,7 +272,7 @@ export default function HomeWindowRepair() {
                 </ButtonUnderline>
               </div>
               <StaticImage
-                src="../../images/residential/windows-and-doors-calgary.jpg"
+                src="../../images/services/residential/windows-and-doors-calgary.png"
                 alt="windows and doors calgary"
                 className="stretch"
               />

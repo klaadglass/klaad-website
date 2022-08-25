@@ -11,6 +11,12 @@ import { Container, GridThree, Section } from "./layoutComponents"
 
 const Item = styled.div`
   text-align: center;
+
+  .service-img {
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+  }
 `
 
 const ItemOther = styled.div`
@@ -43,7 +49,8 @@ export default function FullServices() {
           <GridThree>
             <Item className="spacing">
               <StaticImage
-                src="../images/home-window-repair-installation-calgary.jpg"
+                className="service-img"
+                src="../images/home-window-repair-installation-calgary-service.jpeg"
                 alt="home window repair & installation calgary"
               />
               <h3 className="caps bold">home window repair & installation</h3>
@@ -61,7 +68,8 @@ export default function FullServices() {
             </Item>
             <Item className="spacing">
               <StaticImage
-                src="../images/24-hour-commercial-window-repair-calgary.jpg"
+                className="service-img"
+                src="../images/24-7-commercial-window-repair-calgary.jpg"
                 alt="24/7 commercial window repair calgary"
               />
               <h3 className="caps bold">24/7 commercial window repair</h3>
@@ -79,7 +87,8 @@ export default function FullServices() {
             </Item>
             <Item className="spacing">
               <StaticImage
-                src="../images/new-storm-doors-installation-calgary.jpg"
+                className="service-img"
+                src="../images/storm-door-installations-calgary.jpg"
                 alt="new storm doors installation calgary"
               />
               <h3 className="caps bold">new storm door installations</h3>
@@ -99,8 +108,8 @@ export default function FullServices() {
           <ItemOther className="spacing">
             <h3 className="caps bold">other services</h3>
             <StaticImage
-              src="../images/shower-doors-calgary.jpg"
-              alt="shower-doors-calgary"
+              src="../images/mirror-installation-calgary.jpg"
+              alt="mirror installations and showers calgary"
               height={400}
             />
 

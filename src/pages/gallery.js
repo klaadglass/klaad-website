@@ -32,6 +32,34 @@ export default function Gallery() {
           </h2>
           <GridThree>
             <StaticImage
+              src="../images/gallery/residential-window-1.jpeg"
+              alt="calgary glass contractor project gallery"
+            />
+            <StaticImage
+              src="../images/gallery/residential-window-2.jpg"
+              alt="calgary glass contractor project gallery"
+            />
+            <StaticImage
+              src="../images/gallery/onsite-1.jpeg"
+              alt="calgary glass contractor project gallery"
+            />
+            <StaticImage
+              src="../images/gallery"
+              alt="calgary glass contractor project gallery"
+            />
+            <StaticImage
+              src="../images/gallery/laughing.jpg"
+              alt="calgary glass contractor project gallery"
+            />
+            <StaticImage
+              src="../images/gallery/door-installations-and-repairs-1.jpeg"
+              alt="calgary glass contractor project gallery"
+            />
+            <StaticImage
+              src="../images/gallery/residential-window-3.jpg"
+              alt="calgary glass contractor project gallery"
+            />
+            <StaticImage
               className="stretch"
               src="../images/gallery/featured/window-repair-1.jpg"
               alt="calgary glass contractor"
