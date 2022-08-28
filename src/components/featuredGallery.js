@@ -13,34 +13,38 @@ export default function FeaturedGallery() {
         <GridThree>
           <StaticImage
             className="stretch"
-            src="../images/gallery/featured/window-repair-1.jpg"
-            alt="calgary glass contractor"
+            src="../images/gallery/window-repair-gallery-1.jpg"
+            alt="window repair job" />
+          <StaticImage
+            className="stretch"
+            src="../images/gallery/window-repair-gallery-2.jpg"
+            alt="window repair job"
           />
           <StaticImage
             className="stretch"
-            src="../images/gallery/featured/window-repair-2.jpg"
-            alt="calgary glass contractor"
+            src="../images/gallery/window-repair-gallery-3.jpg"
+            alt="window repair calgary, ab"
           />
           <StaticImage
             className="stretch"
-            src="../images/gallery/featured/window-repair-3.jpg"
-            alt="calgary glass contractor"
+            src="../images/gallery/window-repair-gallery-4.jpg"
+            alt="window repair calgary, ab"
           />
           <StaticImage
             className="stretch"
-            src="../images/gallery/featured/window-repair-4.jpg"
-            alt="calgary glass contractor"
+            src="../images/gallery/window-repair-gallery-5.jpg"
+            alt="window repair calgary, ab"
           />
           <StaticImage
             className="stretch"
-            src="../images/gallery/featured/window-repair-5.jpg"
-            alt="calgary glass contractor"
+            src="../images/gallery/window-repair-gallery-6.jpg"
+            alt="window repair calgary, ab"
           />
-          <StaticImage
+          {/* <StaticImage
             className="stretch"
-            src="../images/gallery/featured/window-repair-6.jpg"
-            alt="calgary glass contractor"
-          />
+            src="../images/gallery/door-installation-and-repairs-gallery-2.jpg"
+            alt="door repair job calgary"
+          /> */}
         </GridThree>
         <div className="center spacing">
           <h3 className="italics caps">request a service</h3>

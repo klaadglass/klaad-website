@@ -104,19 +104,19 @@ export default function HomeWindowRepair() {
                 </ButtonUnderline>
               </div>
               <StaticImage
-                src="../../images/services/residential/large-home-window-installation-calgary.jpeg"
+                src="../../images/large-home-window-installation-calgary.jpeg"
                 alt="large home window installation calgary"
                 className="stretch"
               />
             </Flex>
             <FlexMobileOpp>
               <StaticImage
-                src="../../images/residential/residential-window-replacement-cost-calgary.jpg"
-                alt="residential window replacement cost calgary"
+                src="../../images/home-window-repair-cost-calgary.jpg"
+                alt="residential window repair cost calgary"
                 className="stretch"
               />
               <div className="spacing">
-                <h2 className="title bold italics">Window replacement costs</h2>
+                <h2 className="title bold italics">Window repair costs</h2>
                 <p>
                   Residential window replacement cost Calgary can vary depending
                   on a number of factors, such as the size and style of the
@@ -162,14 +162,14 @@ export default function HomeWindowRepair() {
                 </ButtonUnderline>
               </div>
               <StaticImage
-                src="../../images/services/residential/window-defogging-calgary.jpg"
+                src="../../images/window-defogging-calgary.jpg"
                 alt="window defogging calgary"
                 className="stretch"
               />
             </Flex>
             <FlexMobileOpp>
               <StaticImage
-                src="../../images/services/residential/calgary-triple-pane-window-upgrades.jpeg"
+                src="../../images/calgary-triple-pane-window-upgrades.jpeg"
                 alt="calgary triple pane window upgrades"
                 className="stretch"
               />
@@ -215,14 +215,14 @@ export default function HomeWindowRepair() {
                 </ButtonUnderline>
               </div>
               <StaticImage
-                src="../../images/services/residential/window-rot-repair-calgary.jpg"
+                src="../../images/window-rot-repair-calgary.jpg"
                 alt="window rot repair calgary"
                 className="stretch"
               />
             </Flex>
             <FlexMobileOpp>
               <StaticImage
-                src="../../images/services/residential/skylight-repair-calgary.jpg"
+                src="../../images/skylight-repair-calgary.jpg"
                 alt="skylight repair calgary"
                 className="stretch"
               />
@@ -272,7 +272,7 @@ export default function HomeWindowRepair() {
                 </ButtonUnderline>
               </div>
               <StaticImage
-                src="../../images/services/residential/windows-and-doors-calgary.png"
+                src="../../images/windows-and-doors-calgary.png"
                 alt="windows and doors calgary"
                 className="stretch"
               />

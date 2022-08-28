@@ -109,14 +109,14 @@ export default function StormDoorsCalgary() {
                 </ButtonUnderline>
               </div>
               <StaticImage
-                src="../../images/storm-doors/external-storm-door-calgary.jpg"
+                src="../../images/external-storm-door-calgary.jpg"
                 alt="external storm door calgary"
                 className="stretch"
               />
             </Flex>
             <FlexMobileOpp>
               <StaticImage
-                src="../../images/storm-doors/security-storm-door-calgary.jpg"
+                src="../../images/security-storm-door-calgary.jpg"
                 alt="security storm door calgary"
                 className="stretch"
               />
@@ -166,7 +166,7 @@ export default function StormDoorsCalgary() {
                 </ButtonUnderline>
               </div>
               <StaticImage
-                src="../../images/storm-doors/retractable-screen-doors-calgary.jpg"
+                src="../../images/retractable-screen-doors-calgary.jpg"
                 alt="retractable screen doors calgary"
                 className="stretch"
               />

@@ -33,8 +33,8 @@ export default function OtherGlassServices() {
           <ItemOther className="spacing">
             <h3 className="caps bold">other services</h3>
             <StaticImage
-              src="../../images/shower-doors-calgary.jpg"
-              alt="shower-doors-calgary"
+              src="../../images/mirror-installation-calgary.jpg"
+              alt="mirror installation calgary"
               height={400}
             />
 

@@ -21,7 +21,7 @@ import ServicePage from "../../components/servicePage"
 import FormContact from "../../components/forms/formContact"
 
 import BannerImg from "../../images/24-hour-emergency-commercial-window-repair-calgary.jpg"
-import MainImg from "../../images/services/commercial/commercial-window-repair-calgary.jpg"
+import MainImg from "../../images/commercial-window-repair-calgary.jpg"
 import styled from "styled-components"
 import CommercialFAQ from "../../components/faqs/commercialFAQ"
 import SEO from "../../components/seo"
@@ -113,14 +113,14 @@ export default function CommercialWindowRepair() {
                 </ButtonUnderline>
               </div>
               <StaticImage
-                src="../../images/services/commercial/storefront-window-repair-calgary.jpg"
+                src="../../images/storefront-window-repair-calgary.jpg"
                 alt="storefront window repair calgary"
                 className="stretch"
               />
             </Flex>
             <FlexMobileOpp>
               <StaticImage
-                src="../../images/services/commercial/commercial-door-repairs-and-replacements-calgary.jpg"
+                src="../../images/commercial-door-repairs-and-replacements-calgary.jpg"
                 alt="commercial door repairs and replacements calgary"
                 className="stretch"
               />
@@ -151,7 +151,7 @@ export default function CommercialWindowRepair() {
               </div>
             </FlexMobileOpp>
             <StaticImage
-              src="../../images/services/commercial/building-window-repair-downtown-calgary.jpeg"
+              src="../../images/building-window-repair-downtown-calgary.jpeg"
               alt="building window repair in dowtown calgary"
             />
           </Container>
