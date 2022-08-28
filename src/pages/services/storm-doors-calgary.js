@@ -21,7 +21,7 @@ import ServicePage from "../../components/servicePage"
 import FormContact from "../../components/forms/formContact"
 
 import BannerImg from "../../images/storm-door-installation-and-repair-services-calgary.jpg"
-import MainImg from "../../images/storm-doors-calgary.jpg"
+import MainImg from "../../images/storm-door-installations-calgary.jpg"
 import styled from "styled-components"
 import StormdoorFAQ from "../../components/faqs/stormdoorFAQ"
 import SEO from "../../components/seo"

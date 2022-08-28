@@ -29,7 +29,7 @@ const ItemOther = styled.div`
 export default function FullServices() {
   return (
     <Section>
-      <Container className="spacing">
+      <Container className="spacing-lg">
         <div className="spacing center">
           <h2 className="title italics caps bold">services we provide</h2>
           <p>
@@ -74,9 +74,7 @@ export default function FullServices() {
               />
               <h3 className="caps bold">24/7 commercial window repair</h3>
               <p>
-                KLAAD Glass Ltd. does the big residential window repair jobs no
-                one else wants to do! Large home windows & highrise window
-                repair.
+              Did a car drive through your window? Was your building vandalized? KLAAD Glass Ltd. offers 24/7 commercial window repair services.
               </p>
               <ButtonUnderline
                 className="button"
@@ -93,9 +91,7 @@ export default function FullServices() {
               />
               <h3 className="caps bold">new storm door installations</h3>
               <p>
-                KLAAD Glass Ltd. does the big residential window repair jobs no
-                one else wants to do! Large home windows & highrise window
-                repair.
+              Calgary's best storm doors installation & repair services! KLAAD Glass Ltd. uses top-quality storm doors for your installation and repair needs!
               </p>
               <ButtonUnderline
                 className="button"
