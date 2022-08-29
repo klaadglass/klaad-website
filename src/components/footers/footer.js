@@ -203,7 +203,9 @@ export default function Footer() {
                 </li>
                 <li>
                   <FlexContact>
-                    <a href="mailto: info@klaadglass.ca">info@klaadglass.ca</a>
+                    <a href="mailto: collinsgreg@hotmail.com">
+                      collinsgreg@hotmail.com
+                    </a>
                   </FlexContact>
                 </li>
                 <li>
