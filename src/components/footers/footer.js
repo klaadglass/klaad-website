@@ -240,9 +240,7 @@ export default function Footer() {
                 <li>
                   <StyledLink to="/about">about</StyledLink>
                 </li>
-                <li>
-                  <StyledLink to="/careers">careers</StyledLink>
-                </li>
+
                 <li>
                   <StyledLink to="/services">services</StyledLink>
                 </li>
@@ -263,6 +261,9 @@ export default function Footer() {
                 </li>
                 <li>
                   <StyledLink to="/gallery">gallery</StyledLink>
+                </li>
+                <li>
+                  <StyledLink to="/careers">careers</StyledLink>
                 </li>
                 <li>
                   <StyledLink to="/contact">contact</StyledLink>
@@ -287,7 +288,7 @@ export default function Footer() {
                 replacement needs,{" "}
                 <ButtonInline to="/services/storm-doors-calgary">
                   storm door installation
-                </ButtonInline>
+                </ButtonInline>{" "}
                 & repairs, shower systems, commercial mirrors, and more! Call us
                 today to request a free estimate!
               </p>

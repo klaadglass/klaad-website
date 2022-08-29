@@ -56,7 +56,7 @@ export default function CommercialWindowRepair() {
       <ServicePage
         title="commercial window repair calgary"
         subtitle="24/7 emergency glass repair services on storefronts, offices, & buildings"
-        mainContent="24/7 Emergency Glass Repair Services On Storefronts, Offices, & Buildings
+        mainContent="
         At KLAAD Glass, we understand that a broken window can be a major inconvenience for your business, not to mention the security risk. That's why we offer emergency commercial window repair Calgary 24 hours a day, 7 days a week. Whether you need a quick fix for a cracked window or a complete glass replacement, our team of experienced professionals will get the job done quickly and efficiently. We also offer a wide range of other commercial glass services, including installation, repairs, and maintenance. So whether you need emergency commercial glass replacement Calgary or simply want to keep your windows in top condition, KLAAD Glass is the perfect partner for your business.
         "
         mainImg={MainImg}

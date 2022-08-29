@@ -79,7 +79,7 @@ export default function StormdoorFAQ() {
         <Flex>
           <div>
             <AccordionItem
-              question="Wow much does a Calgary storm door cost?"
+              question="How much does a Calgary storm door cost?"
               answer="On average, a Calgary storm door cost between $250 and $700, depending on options and color, and does not include the installation. Generally, standard white doors are far less expensive than doors colored to match your home. There are also many handle and locking/keyed options too, and can add to the final cost of the door so ensure you have all the information when making your choice. That is where KLAAD Glass Calgary can help!! When choosing a Calgary storm door, it is important to consider all of these factors to get an accurate estimate of the cost for your storm door, to ensure you get the right door for your home. Contact us today to get an estimate."
             />
             <AccordionItem

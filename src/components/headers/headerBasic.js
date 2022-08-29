@@ -268,9 +268,7 @@ export default function HeaderBasic() {
                 <li>
                   <StyledLink to="/about">about</StyledLink>
                 </li>
-                <li>
-                  <StyledLink to="/careers">careers</StyledLink>
-                </li>
+
                 <Dropdown>
                   <StyledLink to="/services">
                     services
@@ -301,6 +299,9 @@ export default function HeaderBasic() {
                 </Dropdown>
                 <li>
                   <StyledLink to="/gallery">gallery</StyledLink>
+                </li>
+                <li>
+                  <StyledLink to="/careers">careers</StyledLink>
                 </li>
                 <li>
                   <StyledLink to="/contact">contact</StyledLink>
