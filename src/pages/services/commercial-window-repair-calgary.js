@@ -56,7 +56,9 @@ export default function CommercialWindowRepair() {
       <ServicePage
         title="commercial window repair calgary"
         subtitle="24/7 emergency glass repair services on storefronts, offices, & buildings"
-        mainContent="At KLAAD Glass, we understand that a broken window can be a major inconvenience for your business. That's why we offer emergency commercial window repair Calgary 24 hours a day, 7 days a week. Whether you need a quick fix for a cracked window or a complete glass replacement, our team of experienced professionals will get the job done quickly and efficiently. We also offer a wide range of other commercial glass services, including installation, repairs, and maintenance. So whether you need emergency commercial glass replacement Calgary or simply want to keep your windows in top condition, KLAAD Glass is the perfect partner for your business."
+        mainContent="24/7 Emergency Glass Repair Services On Storefronts, Offices, & Buildings
+        At KLAAD Glass, we understand that a broken window can be a major inconvenience for your business, not to mention the security risk. That's why we offer emergency commercial window repair Calgary 24 hours a day, 7 days a week. Whether you need a quick fix for a cracked window or a complete glass replacement, our team of experienced professionals will get the job done quickly and efficiently. We also offer a wide range of other commercial glass services, including installation, repairs, and maintenance. So whether you need emergency commercial glass replacement Calgary or simply want to keep your windows in top condition, KLAAD Glass is the perfect partner for your business.
+        "
         mainImg={MainImg}
         mainAlt="commercial window repair calgary"
       />
@@ -87,25 +89,25 @@ export default function CommercialWindowRepair() {
                 </h2>
                 <p>
                   If you've had the misfortune of having a car drive through
-                  your storefront window, or of someone vandalizing your window,
+                  your storefront window, or someone vandalizing your window,
                   you'll need to find a commercial window repair company in
-                  Calgary that can help you fix the damage. There are a few
-                  things you'll need to take into account when choosing a
-                  company to work with. First, you'll need to make sure that
-                  they have experience repairing commercial windows. Second,
-                  you'll need to make sure that they use high-quality materials
-                  and have a good reputation for completing repairs in a timely
-                  manner. Finally, you'll need to get an estimate for the cost
-                  of the repairs before making a decision. With over 25 years of
-                  experience serving the Calgary area, KLAAD Glass can be your
-                  24 hour commercial window repair expert in Calgary. Call us
-                  now to get your estimate!
+                  Calgary that can help you fix the damage... IN A HURRY!!!
+                  There are a few things you'll need to take into account when
+                  choosing a company to work with. First, you'll need to make
+                  sure that they have experience repairing commercial windows.
+                  Second, you'll need to make sure that they use high-quality
+                  materials and have a good reputation for completing repairs in
+                  a timely manner. Finally, you'll need to get an estimate for
+                  the cost of the repairs before making a decision. With over 25
+                  years of experience serving the Calgary area, KLAAD Glass can
+                  be your 24 hour commercial window repair expert in Calgary.
+                  Call us now to get your estimate!
                 </p>
                 <p>Other types of commercial windows we fix are:</p>
                 <ul>
                   <li>Storefront window repair & replacement Calgary</li>
                   <li>Office window repairs Calgary</li>
-                  <li>Highrise office & building window repairs Calgary</li>
+                  <li>High-rise office & building window repairs Calgary</li>
                   <li>Restaurant window & patio glass repair Calgary</li>
                 </ul>
                 <ButtonUnderline to="/contact">
@@ -126,24 +128,26 @@ export default function CommercialWindowRepair() {
               />
               <div className="spacing">
                 <h2 className="title bold italics">
-                  Commercial door repairs & replacements
+                  Commercial window/door repairs & replacements
                 </h2>
                 <p>
                   As a business, we understand that commercial buildings have
-                  many needs when it comes to door repair and replacement.
-                  Office doors in particular see a lot of wear and tear, as they
-                  are opened and closed multiple times throughout the day.
-                  Storefront doors also take a beating, as they are exposed to
-                  the elements and can be subject to forced entry. When it comes
-                  to office door repairs Calgary, we can replace damaged panels,
-                  frames, hinges, locks, and hardware. We can also provide new
-                  doors that match the style of your existing doors. For
-                  storefront door repairs Calgary, we can replace glass panels,
+                  many specialized needs when it comes to door repair and
+                  replacement. Office doors or apartment building entrances in
+                  particular see a lot of wear and tear, as they are opened and
+                  closed multiple times throughout the day. Commercial doors
+                  also take a beating, as they are exposed to the elements and
+                  can be subject to forced entry or even daily abuse. When it
+                  comes to commercial/office/high-rise/apartment door repairs
+                  Calgary, we can replace damaged panels, frames, hinges, locks,
+                  and hardware. We can also provide new doors that match the
+                  style and color of your existing doors. For storefront door
+                  repairs Calgary, we can replace glass panels,
                   weatherstripping, door closers, and more. We understand the
-                  importance of keeping your business running smoothly, so we
-                  offer fast turnaround times and 24/7 emergency services.
-                  Contact KLAAD Glass today for all of your commercial door
-                  repair needs!
+                  importance of keeping your business running smoothly and
+                  securely, so we offer fast turnaround times and 24/7 emergency
+                  services. Contact KLAAD Glass today for all of your
+                  commercial/office/high-rise/apartment door repair needs!
                 </p>
                 <ButtonUnderline to="/contact">
                   get free estimate &#x2192;

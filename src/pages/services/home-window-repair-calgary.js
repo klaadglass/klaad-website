@@ -56,7 +56,7 @@ export default function HomeWindowRepair() {
       <ServicePage
         title="home window repair calgary"
         subtitle="calgary's trusted window repair and replacement company"
-        mainContent="Home window repair and replacement is a common need in Calgary. There are many reasons why windows may become damaged and need to be replaced. The most common cause of window damage in Calgary is severe weather or damage caused by others. High winds can break glass, and hail can crack or chip it. Hail is especially prominent in Calgary during the summer months which is why it’s important to have a go-to home window repair Calgary company that can also help with window hail damage repair. Extreme cold can also cause glass to become brittle and break. In addition, tree limbs or other debris can fall on windows and cause them to break. If you have damage to your windows, it is important to contact your reputable window repair contractor as soon as possible. At KLAAD Glass, we will be able to assess the damage and recommend the best course of action. In some cases, the damage may be minor and home window replacement Calgary is all that is needed. However, if the damage is extensive, we will likely recommend that the window be replaced. Regardless of the extent of the damage, it is important to have it addressed as soon as possible to avoid further damage to your home."
+        mainContent="Home window repair and replacement is a common need in Calgary. There are many reasons why windows may become damaged and need to be replaced. The most common cause of window damage in Calgary is severe weather, damage caused by others, or they have simply outlasted their service life. We know Calgary's weather can produce the high winds that can break glass, or the  hail that can cause cracks or chips or even outright breakage to the degree of weather penetration... very serious problems indeed!! These issues and others we haven't even mentioned means it is important to have a go-to home window repair Calgary company for your home or business that can also help when hail damage or other repairs are needed. Even common occurrences like our extreme cold can cause glass to become brittle and break or even “fail” and loose their insulating capacity. Hockey pucks, sling shots, baseball games, not so good golf shots or other debris can cause unexpected window and glass damage, as unintentional as they may be. If you have damage to your windows, it is important to contact your reputable Calgary window repair contractor as soon as possible. At KLAAD Glass, we will be able to assess the damage and recommend the best course of action. In some cases, the damage may be minor and a little TLC or home window replacement Calgary is all that is needed. However, if the damage is extensive, we are the people to talk to. Regardless of the extent of the damage, it is important to have it addressed as soon as possible to avoid further damage to your home."
         mainImg={MainImg}
         mainAlt="home window repair calgary"
       />
@@ -87,17 +87,23 @@ export default function HomeWindowRepair() {
                   Calgary’s Experts in large home window repairs
                 </h2>
                 <p>
-                  At KLAAD Glass, we specialize in large home window repairs,
-                  mansion window repairs, and highrise window repairs. No job is
-                  too big or too small for our team of experienced
-                  professionals. We understand the unique challenges that come
-                  with working on large windows, and we have the skills and
-                  expertise to get the job done right. We also offer a wide
-                  range of custom glass Calgary options to suit your specific
-                  needs and large window sizes. Whether you need quality window
-                  installation Calgary services, or general window repairs to
-                  your existing windows, we can help. Contact us today to
-                  schedule a consultation.
+                  At KLAAD Glass, we've seen the evolution of the modern home!!
+                  It used to be single story homes with regular glass sizes, but
+                  now-a-days those houses have gotten a lot bigger!! Extra large
+                  triple pane windows are now very common and sometimes they
+                  require a special type of approach based on their size and
+                  placement in the home. Window problems three stories up in
+                  your dream home?? No problem for KLAAD Glass as we specialize
+                  in these large home window repairs, or even high-rise window
+                  repairs. No job is too big or too small for our team of
+                  experienced professionals. We understand the unique challenges
+                  that come with working on large windows, and we have the
+                  skills and expertise to get the job done right. We also offer
+                  a wide range of custom glass Calgary options to suit your
+                  specific needs and large window sizes. Whether you need
+                  quality window installation Calgary services, or general
+                  window repairs to your existing windows, we can help. Contact
+                  us today to schedule a consultation.
                 </p>
                 <ButtonUnderline to="/contact">
                   get free estimate &#x2192;
@@ -120,16 +126,24 @@ export default function HomeWindowRepair() {
                 <p>
                   Residential window replacement cost Calgary can vary depending
                   on a number of factors, such as the size and style of the
-                  window, the type of glass, and the frame material. In general,
-                  the average cost of a new window is between $250 and $700 per
-                  window. When considering the cost of window replacement, it's
-                  also important to factor in the installation costs. At KLAAD
-                  Glass we will include window installation cost in our quote so
+                  window, the type of glass, and even the frame material. With
+                  the cost of raw materials changing seemingly daily, it is even
+                  more important to click on our FREE ESTIMATE link if you have
+                  a problem. We can come to you at a time that best suites YOUR
+                  schedule and help you access the REAL COSTS, in their
+                  entirety, with no surprises. We're home owners too, and we
+                  hate surprises. When considering the cost of window
+                  replacement, it is important to factor in ALL the costs and be
+                  confident that your window costs will be as quoted, and NEVER
+                  any more. At KLAAD Glass we will include window supply cost,
+                  window installation cost, all materials costs and even getting
+                  rid of your old windows, all included in one quote, just so
                   you will know the full price upfront without any hidden
-                  charges. Overall, the cost of residential window replacement
-                  can range from a few hundred dollars to several thousand,
-                  depending on the scope of the project. We can help you find a
-                  quality window at a price that fits your budget.
+                  charges. Let's be perfectly upfront... overall, the cost of
+                  residential window replacement can range from a few hundred
+                  dollars to several thousand, depending on the scope of the
+                  project. We can help you find a quality window at a price that
+                  fits your budget.
                 </p>
                 <ButtonUnderline to="/contact">
                   get free estimate &#x2192;
@@ -144,18 +158,22 @@ export default function HomeWindowRepair() {
                 <p>
                   We can help with that! If you have ever noticed moisture or
                   fog in your home windows, you are not alone. This is a common
-                  problem, especially in older homes or in the colder climates
-                  we experience in Calgary. The good news is that there are a
-                  few things you might be able to do to fix the problem before
-                  hiring a glass repair company. First, check the window seals
-                  and weather stripping. If there are any gaps or cracks,
-                  sealing them up will help to keep moisture out. You can also
-                  try opening a window slightly to allow some air circulation.
-                  If the problem persists, you may need to replace your window
-                  glass. KLAAD Glass offers professional window defogging
-                  Calgary and we can help you to determine the best course of
-                  action. With our help, you can enjoy clear, fog-free windows
-                  in no time!
+                  problem that is not confined to older homes. New homes can
+                  experience “failures” that allow regular moisture in the air
+                  to penetrate the window cavity and build up a “fog” that ruins
+                  your view, and decreases your home's efficiency, costing you
+                  money from heat loss. Our colder climate and extreme
+                  temperature swings we experience in Calgary can really add to
+                  this problem. If you can not seem to clean your windows no
+                  matter how hard you try, the culprit is probably moisture in
+                  the glass. The good news is that we at KLAAD Glass fix these
+                  problems every single day. We have fixed thousands of sealed
+                  units in Calgary over the years and I doubt that we're done
+                  yet. If you are experiencing these persistent problems, KLAAD
+                  Glass can help by offering you quality, professional window
+                  services at a fair price so that with our help, you can enjoy
+                  clear, fog-free windows in no time, and restore that beautiful
+                  view!
                 </p>
                 <ButtonUnderline to="/contact">
                   get free estimate &#x2192;
@@ -179,17 +197,23 @@ export default function HomeWindowRepair() {
                 </h2>
                 <p>
                   Are you interested in achieving greater energy efficiency in
-                  your Calgary home? You might want to consider calgary triple
+                  your Calgary home? You might want to consider Calgary triple
                   pane window upgrades and installation. Triple pane windows are
                   a type of window that has three layers of glass, with an
                   insulating space between each layer. This design helps to
                   prevent heat loss in the winter and keep your home cooler in
                   the summer. As a result, triple pane windows can help you save
-                  money on your energy bills. In addition, they can also help to
-                  reduce noise pollution and improve the overall comfort of your
-                  home. KLAAD Glass offers triple pane window upgrades and
-                  installation services and we offer competitive rates and
-                  quality workmanship.
+                  money on your energy bills and add to the overall comfort of
+                  your home. In addition, they can also help to reduce noise
+                  pollution and improve the overall aesthetics of your home.
+                  Triple Glaze Upgrades will also increase the value of your
+                  home and are an attractive alternative if you're selling. A
+                  triple glaze upgrade is often a very important part of a
+                  buyer's wish list when shopping for a new home and will often
+                  be a deciding factor over a similar house with only double
+                  glaze products. KLAAD Glass offers triple pane window upgrades
+                  and installation services and we always offer competitive
+                  rates and quality workmanship.
                 </p>
                 <ButtonUnderline to="/contact">
                   get free estimate &#x2192;
@@ -204,11 +228,14 @@ export default function HomeWindowRepair() {
                   as soon as possible. Window rot can cause structural damage to
                   your home, and it can also lead to health problems for you and
                   your family. We offer window rot repair Calgary to help you
-                  get rid of window rot quickly and efficiently. We use a
-                  variety of techniques to remove window rot, including chemical
-                  treatments, sanding, and possibly replacement of windows. We
+                  get rid of window rot quickly and efficiently without the
+                  expense of pricey full window renovations. We use a variety of
+                  techniques to remove window rot, including chemical
+                  treatments, fillers, sanding, and others to fix things up. We
                   can also help you prevent window rot in the future by sealing
-                  and caulking your windows. Contact us today to learn more!
+                  and caulking your windows, a very important and often
+                  overlooked window maintenance procedure. Contact us today to
+                  learn more!
                 </p>
                 <ButtonUnderline to="/contact">
                   get free estimate &#x2192;
@@ -235,11 +262,11 @@ export default function HomeWindowRepair() {
                   and can help reduce your energy costs. However, skylights can
                   also be a source of leaks and drafts. If you notice any
                   leaking or drafts around your skylight, it's important to have
-                  it repaired as soon as possible. Skylight repair calgary can
+                  it repaired as soon as possible. Skylight repair Calgary can
                   be tricky, so it's best to leave it to the professionals. At
                   KLAAD Glass we will be able to quickly identify the source of
                   the problem and make the necessary repairs. In most cases,
-                  skylight repair calgary is relatively straightforward and can
+                  skylight repair Calgary is relatively straightforward and can
                   be completed in a few hours. However, more complex repairs may
                   require a more extensive investigation. Either way, skylight
                   repairs in Calgary is a job best left to the experts - contact

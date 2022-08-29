@@ -55,9 +55,10 @@ export default function FullServices() {
               />
               <h3 className="caps bold">home window repair & installation</h3>
               <p>
-                KLAAD Glass Ltd. does the big residential window repair jobs no
-                one else wants to do! Large home windows & highrise window
-                repair.
+                KLAAD Glass Ltd. has decades of experience doing big residential
+                window repair jobs no one else wants to do! Large home windows
+                are what we do every day, but don't worry, we handle your
+                smaller jobs too!
               </p>
               <ButtonUnderline
                 className="button"
@@ -74,7 +75,10 @@ export default function FullServices() {
               />
               <h3 className="caps bold">24/7 commercial window repair</h3>
               <p>
-              Did a car drive through your window? Was your building vandalized? KLAAD Glass Ltd. offers 24/7 commercial window repair services.
+                KLAAD Glass Ltd. Is available to you 24 hours a day! We handle
+                insurance claims, emergency situations and late night security
+                risks. We are here to service your every need in windows &
+                glass!{" "}
               </p>
               <ButtonUnderline
                 className="button"
@@ -91,7 +95,10 @@ export default function FullServices() {
               />
               <h3 className="caps bold">new storm door installations</h3>
               <p>
-              Calgary's best storm doors installation & repair services! KLAAD Glass Ltd. uses top-quality storm doors for your installation and repair needs!
+                KLAAD Glass Ltd. has been installing screen doors from various
+                manufacturers for years. We can install what you buy from big
+                box retailers, or one you get from us. Click on our free
+                estimates link to ask about this service today!
               </p>
               <ButtonUnderline
                 className="button"

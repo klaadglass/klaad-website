@@ -241,6 +241,9 @@ export default function Footer() {
                   <StyledLink to="/about">about</StyledLink>
                 </li>
                 <li>
+                  <StyledLink to="/careers">careers</StyledLink>
+                </li>
+                <li>
                   <StyledLink to="/services">services</StyledLink>
                 </li>
                 <li>

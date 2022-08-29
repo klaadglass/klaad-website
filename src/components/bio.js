@@ -39,12 +39,14 @@ export default function Bio() {
           <Text className="spacing">
             <h2 className="title italics bold">about KLAAD Glass Ltd.</h2>
             <p>
-              KLAAD Glass Ltd. is a reliable window & door repair contractor
-              servicing Calgary, AB and surrounding areas. With extensive
-              residential & commercial experience, we can handle your window
-              installation & glass replacement needs, storm door installation &
-              repairs, shower systems, commercial mirrors, and more! Call us
-              today to request a free estimate!
+              KLAAD Glass Ltd. is a reliable, locally owned and operated window
+              & door repair contractor servicing Calgary, AB and surrounding
+              areas. With extensive residential & commercial experience, we can
+              help you with all things windows and doors. Glass replacement, new
+              window installation, storm doors, shower systems, mirrors,
+              commercial projects, hardware fixes, caulking jobs and more! We're
+              real Alberta people with real Alberta values so call us today for
+              your free project estimate!
             </p>
             <ButtonPrimary to="/contact">get free estimate</ButtonPrimary>
           </Text>

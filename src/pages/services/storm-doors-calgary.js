@@ -20,8 +20,8 @@ import AllReviews from "../../components/reviews"
 import ServicePage from "../../components/servicePage"
 import FormContact from "../../components/forms/formContact"
 
-import BannerImg from "../../images/storm-door-installation-and-repair-services-calgary.jpg"
-import MainImg from "../../images/storm-door-installations-calgary.jpg"
+import BannerImg from "../../images/storm-door-installations-calgary.jpg"
+import MainImg from "../../images/storm-doors-calgary-retractable-door-with-customer.png"
 import styled from "styled-components"
 import StormdoorFAQ from "../../components/faqs/stormdoorFAQ"
 import SEO from "../../components/seo"
@@ -109,30 +109,34 @@ export default function StormDoorsCalgary() {
                 </ButtonUnderline>
               </div>
               <StaticImage
-                src="../../images/external-storm-door-calgary.jpg"
-                alt="external storm door calgary"
+                src="../../images/storm-doors-calgary-types.png"
+                alt="types of storm doors calgary"
                 className="stretch"
               />
             </Flex>
             <FlexMobileOpp>
               <StaticImage
-                src="../../images/security-storm-door-calgary.jpg"
-                alt="security storm door calgary"
+                src="../../images/what-is-a-storm-door-calgary.jpeg"
+                alt="what is a storm door calgary"
                 className="stretch"
               />
               <div className="spacing">
                 <h2 className="title bold italics">What is a storm door?</h2>
                 <p>
-                  A storm door is a security door that is used to protect the
-                  main door of a house or building from bad weather. Storm doors
-                  usually have a glass panel that can be opened and closed, and
-                  they are often used in conjunction with screen doors. Storm
-                  doors can help to keep out drafts and reduce energy costs, and
-                  they can also provide an extra layer of security. In some
-                  cases, storm doors may even be required by building codes.
-                  Whether you're looking to improve the security of your home or
-                  simply want to reduce your energy bills, a storm door is a
-                  great option.
+                  A storm door is an additional layer of protection for an
+                  entrance door. Storm doors usually have a glass panel that can
+                  be opened and closed to allow airflow into your home, but also
+                  offer an excellent level of weather protection and security in
+                  Calgary. Storm doors are installed in front of a residential
+                  entrance door and will help in reducing drafts, precipitation
+                  build up against the main door and reduce energy costs. Storm
+                  doors can also provide an extra layer of security by creating
+                  a glass barrier while still allowing airflow on those hot
+                  summer days and evenings. Storm doors in Calgary have many
+                  benefits from not only improving the look of your home, but
+                  improving it's energy efficiency too. Whether you're looking
+                  to improve the security of your home or simply want to reduce
+                  your energy bills, a storm door is a great option.
                 </p>
                 <ButtonUnderline to="/contact">
                   get free estimate &#x2192;
@@ -145,20 +149,19 @@ export default function StormDoorsCalgary() {
                   Storm & screen doors calgary
                 </h2>
                 <p>
-                  Retractable screen doors Calgary are a great way to enjoy the
-                  outdoors without having to worry about insects getting inside
-                  your home. These doors work by retracting into a housing unit
-                  when not in use, and they can be installed on both doors and
-                  windows. Screen doors are particularly popular in the spring
-                  and summer months in Calgary, when insects are most active.
-                  However, retractable screen doors can be used year-round to
-                  help keep your home free of pests. There have been many
-                  reportings of skunks, bobcats, and deer in suburb areas of
-                  Calgary which is why it’s important to have extra protection.
-                  If you're looking for a high-quality retractable screen door,
-                  KLAAD Glass can help you choose the best fit for your home,
-                  and we’ll help with the installation as well. Contact us
-                  today!{" "}
+                  Retractable screen doors Calgary have become a popular option
+                  to getting more airflow into your home. Retractable screen
+                  doors roll up into a small vertical housing on your entrance
+                  door and are simply “rolled out” across the door opening when
+                  needed. Their advantage is an unobstructed view and airflow
+                  into the home as it contains no glass, just screen mesh. These
+                  types of screen doors don't have the security advantages of
+                  storm doors in Calgary, but they do the trick when security or
+                  weather protection are not your primary goals, but airflow
+                  is!! If you're looking for a high-quality retractable screen
+                  door, KLAAD Glass can help you choose the best fit for your
+                  home, and we can even help with the installation as well.
+                  Contact us today!
                 </p>
 
                 <ButtonUnderline to="/contact">
@@ -166,8 +169,8 @@ export default function StormDoorsCalgary() {
                 </ButtonUnderline>
               </div>
               <StaticImage
-                src="../../images/retractable-screen-doors-calgary.jpg"
-                alt="retractable screen doors calgary"
+                src="../../images/storm-and-screen-doors-calgary.png"
+                alt="storm and screen doors calgary"
                 className="stretch"
               />
             </Flex>
