@@ -203,9 +203,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <FlexContact>
-                    <a href="mailto: collinsgreg@hotmail.com">
-                      collinsgreg@hotmail.com
-                    </a>
+                    <a href="mailto: info@klaadglass.ca">info@klaadglass.ca</a>
                   </FlexContact>
                 </li>
                 <li>
@@ -225,10 +223,7 @@ export default function Footer() {
                     target="_blank"
                     href="https://www.facebook.com/KLAADGLASS/"
                   >
-                    <img
-                      src={Facebook}
-                      alt="3'D revolution technologies - 3d printing services in calgary"
-                    />
+                    <img src={Facebook} alt="klaad glass facebook" />
                   </a>
                 </div>
               </Socials>
