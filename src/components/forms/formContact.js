@@ -22,7 +22,7 @@ export default function FormContact(props) {
           </h3>
           <p className="caps center">
             Call{" "}
-            <AnchorInline href="tel: 403-891-3172">403-891-3172</AnchorInline>{" "}
+            <AnchorInline href="tel: 403-272-8932">403-272-8932</AnchorInline>{" "}
             or send us a message below!
           </p>
         </div>

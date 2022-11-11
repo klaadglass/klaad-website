@@ -248,7 +248,7 @@ export default function HeaderBasic() {
             </LogoContainer>
             <ul>
               <li>
-                <NavPhone href="tel: 403-891-3172">(403) 891-3172</NavPhone>
+                <NavPhone href="tel: 403-272-8932">(403) 272-8932</NavPhone>
               </li>
               <li>
                 <GetQuote to="/contact">

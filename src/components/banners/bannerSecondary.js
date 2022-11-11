@@ -80,9 +80,9 @@ export default function BannerSecondary(props) {
           <p className="body--small">{props.description}</p>
           <Actions>
             <ButtonPrimary to="/contact">get free estimate</ButtonPrimary>
-            <AnchorInline className="bold italics" href="tel: 403-891-3172">
+            <AnchorInline className="bold italics" href="tel: 403-272-8932">
               <span className="dark">Or Call Us:</span> <br />
-              403-891-3172
+              403-272-8932
             </AnchorInline>
           </Actions>
         </Text>

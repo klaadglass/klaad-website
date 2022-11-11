@@ -70,7 +70,7 @@ export default function CommercialWindowRepair() {
             </h3>
             <p>
               Call us at{" "}
-              <AnchorInline href="tel: 403-891-3172">403-891-3172</AnchorInline>{" "}
+              <AnchorInline href="tel: 403-272-8932">403-272-8932</AnchorInline>{" "}
               or fill out our contact form to reuest a service or free estimate
               for us!
             </p>

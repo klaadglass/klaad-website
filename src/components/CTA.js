@@ -34,9 +34,9 @@ export default function CTA(props) {
               </p>
               <Actions>
                 <ButtonPrimary to="/contact">book online</ButtonPrimary>
-                <AnchorInline className="bold italics" href="tel: 403-891-3172">
+                <AnchorInline className="bold italics" href="tel: 403-272-8932">
                   <span className="light">Or Call Us:</span> <br />
-                  403-891-3172
+                  403-272-8932
                 </AnchorInline>
               </Actions>
             </Text>

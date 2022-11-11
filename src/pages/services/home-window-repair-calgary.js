@@ -69,7 +69,7 @@ export default function HomeWindowRepair() {
             </h3>
             <p>
               Call us at{" "}
-              <AnchorInline href="tel: 403-891-3172">403-891-3172</AnchorInline>{" "}
+              <AnchorInline href="tel: 403-272-8932">403-272-8932</AnchorInline>{" "}
               or fill out our contact form to reuest a service or free estimate
               for us!
             </p>
@@ -326,8 +326,8 @@ export default function HomeWindowRepair() {
               <h3 className="caps bold">schedule your appointment</h3>
               <p>
                 Schedule an appointment by calling us at{" "}
-                <AnchorInline href="tel: 403-891-3172">
-                  403-891-3172
+                <AnchorInline href="tel: 403-272-8932">
+                  403-272-8932
                 </AnchorInline>{" "}
                 or using our{" "}
                 <ButtonInline to="/contact">

@@ -14,7 +14,8 @@ export default function FeaturedGallery() {
           <StaticImage
             className="stretch"
             src="../images/gallery/window-repair-gallery-1.jpg"
-            alt="window repair job" />
+            alt="window repair job"
+          />
           <StaticImage
             className="stretch"
             src="../images/gallery/window-repair-gallery-2.jpg"
@@ -50,7 +51,7 @@ export default function FeaturedGallery() {
           <h3 className="italics caps">request a service</h3>
           <p>
             Call us at{" "}
-            <AnchorInline href="tel: 403-891-3172">403-891-3172</AnchorInline>{" "}
+            <AnchorInline href="tel: 403-272-8932">403-272-8932</AnchorInline>{" "}
             or fill out our contact form to reuest a service or free estimate
             for us!
           </p>

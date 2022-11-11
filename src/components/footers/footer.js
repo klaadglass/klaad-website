@@ -198,7 +198,7 @@ export default function Footer() {
               <ul>
                 <li>
                   <FlexContact>
-                    <a href="tel: 403-891-3172">403-891-3172</a>
+                    <a href="tel: 403-272-8932">403-272-8932</a>
                   </FlexContact>
                 </li>
                 <li>

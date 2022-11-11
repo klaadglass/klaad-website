@@ -126,8 +126,8 @@ export default function ServicePage(props) {
                 , and more to Calgary, Airdrie, Okotoks, Cochrane, Chestermere,
                 Foothills, Strathmore, and more surrounding areas and throughout
                 Alberta! Call{" "}
-                <AnchorInline href="tel: 403-891-3172">
-                  403-891-3172
+                <AnchorInline href="tel: 403-272-8932">
+                  403-272-8932
                 </AnchorInline>{" "}
                 to book a service, or use our{" "}
                 <ButtonInline to="/contact">online contact form.</ButtonInline>
