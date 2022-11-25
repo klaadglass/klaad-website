@@ -5,7 +5,7 @@ module.exports = {
     description: "Klaad glass",
     url: "https://www.klaadglass.ca", // No trailing slash allowed!
     siteUrl: "https://www.klaadglass.ca",
-    image: "/logo.svg", // Path to your image you placed in the 'static' folder
+    image: "/logo-light.jpg", // Path to your image you placed in the 'static' folder
     twitterUsername: "",
   },
   plugins: [
