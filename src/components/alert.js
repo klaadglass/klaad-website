@@ -62,7 +62,7 @@ export default function Alert() {
             services we offer. Please return to our home page:
           </p>
           <Actions>
-            <ButtonPrimary to="/home">home</ButtonPrimary>
+            <ButtonPrimary to="/">home</ButtonPrimary>
           </Actions>
         </div>
       </Wrapper>
