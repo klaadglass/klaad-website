@@ -42,7 +42,6 @@ const Wrapper = styled.div`
 export default function StormDoorsCalgary() {
   return (
     <Wrapper>
-      <Alert />
       <Layout>
         <SEO
           title="Storm Doors Calgary Installation Services - KLAAD Glass Ltd."
