@@ -84,10 +84,10 @@ export default function HeroBasic() {
               <ul>
                 <li>
                   {" "}
-                  <FaCheckCircle /> window installation
+                  <FaCheckCircle /> storm doors
                 </li>
                 <li>
-                  <FaCheckCircle /> glass replacement
+                  <FaCheckCircle /> entrance and window hardware repairs
                 </li>
                 <li>
                   {" "}
@@ -95,7 +95,7 @@ export default function HeroBasic() {
                 </li>
                 <li>
                   {" "}
-                  <FaCheckCircle /> interior specialty glass
+                  <FaCheckCircle /> glass replacements
                 </li>
               </ul>
               <ul>
@@ -105,7 +105,7 @@ export default function HeroBasic() {
                 </li>
                 <li>
                   {" "}
-                  <FaCheckCircle /> entrance systems
+                  <FaCheckCircle /> interior specialty glass
                 </li>
                 <li>
                   {" "}
@@ -113,7 +113,7 @@ export default function HeroBasic() {
                 </li>
                 <li>
                   {" "}
-                  <FaCheckCircle /> caulking, storm doors, general repairs
+                  <FaCheckCircle /> window caulking
                 </li>
               </ul>
             </ListFlex>
