@@ -294,7 +294,7 @@ export default function Footer() {
           <hr />
           <Copyright>
             <ul>
-              <li>Copyright&#169; 2022</li>
+              <li>Copyright&#169; 2024</li>
               <li>{Info.name}</li>
               <li>All Rights Reserved</li>
               <li>

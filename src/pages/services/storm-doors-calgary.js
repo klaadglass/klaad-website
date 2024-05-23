@@ -6,6 +6,7 @@ import {
   ButtonInline,
   ButtonUnderline,
   ButtonPrimary,
+  AnchorPrimary,
 } from "../../components/buttons"
 import CTA from "../../components/CTA"
 import Layout from "../../components/layout"
@@ -26,6 +27,9 @@ import styled from "styled-components"
 import StormdoorFAQ from "../../components/faqs/stormdoorFAQ"
 import SEO from "../../components/seo"
 import Alert from "../../components/alert"
+import StormdoorDropdown from "../../components/faqs/stormdoorDropdown"
+import StormdoorDropdown2 from "../../components/faqs/stormdoorDropdown2"
+import StormGallery from "../../components/stormGallery"
 
 const ContentWrapper = styled.div`
   h2,
@@ -55,7 +59,7 @@ export default function StormDoorsCalgary() {
           to3="/services/storm-doors-calgary"
           link3="storm doors calgary"
           title="Storm Door installation & repair services in Calgary"
-          description="Calgary's best storm doors installation & repair services! KLAAD Glass Ltd. uses top-quality storm doors for your installation and repair needs!"
+          description="Calgary's best storm doors installation & repair services! KLAAD Glass Ltd. uses top-quality storm doors for your installation and repair needs! Enhance your home's energy efficiency and curb appeal with Calgary's storm door installations and repairs."
           img={BannerImg}
           alt="Storm Door installation & repair services in Calgary"
         />
@@ -72,6 +76,18 @@ export default function StormDoorsCalgary() {
               <h3 className="italics title bold caps">
                 request a storm door repair or installation service
               </h3>
+              <p>
+                We understand that a well-installed storm door not only provides an extra layer of protection but also helps to reduce energy costs by adding insulation. Our storm doors are engineered to keep your home warm during Calgary's chilly winters and cool during the hot summer months.
+              
+              Our comprehensive selection of storm doors includes options with features such as tempered glass, retractable screens, and heavy-duty frames, ensuring you get the best in durability and functionality. Whether you prefer a classic design or a modern look, our collection has something to suit every style.
+              We pride ourselves on our exceptional customer service and craftsmanship. Each installation is handled with precision and care, guaranteeing that your storm door not only looks great but performs flawlessly. Our experienced technicians are trained to handle even the most challenging installations, ensuring a perfect fit and finish every time.
+              In addition to installation, we offer reliable maintenance services to keep your storm doors in top condition. Regular maintenance can extend the life of your storm door, ensuring it continues to protect your home for years to come. If you're experiencing issues such as squeaky hinges, misaligned frames, or broken glass, our repair team is here to help.
+              For those looking to upgrade their current storm doors, we provide a seamless replacement service. We'll help you select the ideal storm door with screen or storm entry door to meet your needs and install it with minimal disruption to your daily routine. Our commitment to quality and customer satisfaction has made us a trusted name in Calgary for over 25 years.
+
+
+              Discover the benefits of professionally installed storm doors Canada today. Contact KLAAD Glass for a consultation and let us help you enhance your home's protection, efficiency, and beauty.
+</p>
+
               <p>
                 Call us at{" "}
                 <AnchorInline href="tel: 403-272-8932">
@@ -90,7 +106,7 @@ export default function StormDoorsCalgary() {
             <Container className="spacing-lg">
               <Flex>
                 <div className="spacing">
-                  <h2 className="title bold italics">Types of storm doors</h2>
+                  <h2 className="title bold italics">Types of storm doors in Calgary, AB</h2>
                   <p>
                     There are a few different types of storm doors available on
                     the market, each with their own benefits. The most popular
@@ -112,9 +128,13 @@ export default function StormDoorsCalgary() {
                     <li>Storm door hinge side z bar</li>
                     <li>Insulated storm doors Calgary</li>
                   </ul>
-                  <ButtonUnderline to="/contact">
-                    get free estimate &#x2192;
-                  </ButtonUnderline>
+                  <p>As you can see, there are a few different types of storm doors available on the market, each with their own benefits. The most popular type of storm door is the full-view storm door, which offers a clear view of the outdoors while still providing protection from the elements. These doors are typically made of glass or clear plastic, and they can be installed on any type of door. Full-view storm doors are perfect for enjoying Calgary's beautiful landscapes while keeping your home insulated against harsh weather conditions.</p>
+                  <p>Another popular type of Calgary storm door is the half-view storm door, which offers a partially obstructed view of the outdoors. These doors are typically made of wood or metal and can be a great option for doors located in high-traffic areas. Half-view storm doors provide a balance between visibility and privacy, making them ideal for busy households.
+
+</p>
+                  <AnchorPrimary href="tel: 403-272-8932">
+                  Call Us: 403-272-8932
+                </AnchorPrimary>
                 </div>
                 <StaticImage
                   src="../../images/storm-doors-calgary-types.png"
@@ -122,6 +142,7 @@ export default function StormDoorsCalgary() {
                   className="stretch"
                 />
               </Flex>
+              <StormdoorDropdown />
               <FlexMobileOpp>
                 <StaticImage
                   src="../../images/what-is-a-storm-door-calgary.jpeg"
@@ -129,7 +150,7 @@ export default function StormDoorsCalgary() {
                   className="stretch"
                 />
                 <div className="spacing">
-                  <h2 className="title bold italics">What is a storm door?</h2>
+                  <h2 className="title bold italics">What is a Calgary storm door?</h2>
                   <p>
                     A storm door is an additional layer of protection for an
                     entrance door. Storm doors usually have a glass panel that
@@ -147,11 +168,12 @@ export default function StormDoorsCalgary() {
                     or simply want to reduce your energy bills, a storm door is
                     a great option.
                   </p>
-                  <ButtonUnderline to="/contact">
-                    get free estimate &#x2192;
-                  </ButtonUnderline>
+                  <AnchorPrimary href="tel: 403-272-8932">
+                  Call Us: 403-272-8932
+                </AnchorPrimary>
                 </div>
               </FlexMobileOpp>
+              <StormdoorDropdown2 />
               <Flex>
                 <div className="spacing">
                   <h2 className="title bold italics">
@@ -173,9 +195,9 @@ export default function StormDoorsCalgary() {
                     with the installation as well. Contact us today!
                   </p>
 
-                  <ButtonUnderline to="/contact">
-                    get free estimate &#x2192;
-                  </ButtonUnderline>
+                  <AnchorPrimary href="tel: 403-272-8932">
+                  Call Us: 403-272-8932
+                </AnchorPrimary>
                 </div>
                 <StaticImage
                   src="../../images/storm-and-screen-doors-calgary.png"
@@ -191,6 +213,21 @@ export default function StormDoorsCalgary() {
           subtitle="need a storm door installed or repaired?"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pharetra nisl, eget et sit justo, maecenas elit."
         />
+        <StormGallery />
+        <Section>
+          <center>
+            <ContentWrapper>
+              <Container className="spacing" >
+            <h2>Get your Calgary storm doors installed by KLAAD Glass!</h2>
+            <p >At KLAAD Glass, we're dedicated to providing top-quality storm doors in Calgary. With over 25 years of experience, we understand the unique needs of Calgarians when it comes to protecting their homes. Our wide selection of storm doors, crafted from durable materials, ensures resilience against Calgary's harsh weather conditions.
+
+What sets us apart is our commitment to customer satisfaction. From consultation to installation, we prioritize your needs, offering personalized solutions tailored to your home. Our expertise ensures we find the perfect storm door to enhance your home's security, energy efficiency, and curb appeal.
+
+We provide transparent pricing, prompt installations, and comprehensive warranties to ensure your peace of mind. Choose KLAAD Glass for superior storm door installations in Calgary.</p><AnchorPrimary href="tel: 403-272-8932">
+                  Call Us: 403-272-8932
+                </AnchorPrimary></Container></ContentWrapper></center>
+          
+        </Section>
         <FormContact title="get free estimate on your storm door install or repair" />
       </Layout>
     </Wrapper>

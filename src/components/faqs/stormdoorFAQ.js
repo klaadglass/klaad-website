@@ -91,6 +91,18 @@ export default function StormdoorFAQ() {
               question="Do storm doors add value to your home?"
               answer="Any homeowner knows that the key to a comfortable home is making sure it is well insulated. In winter, you want to keep the warm air in and the cold air out. In summer, you want to keep the cool air in and the hot air out. Storm doors are an excellent way to add an extra layer of protection to your home, keeping it more comfortable year-round. Not only do storm doors help to regulate temperature, but they also provide an extra level of security. In addition, storm doors can be a great way to add curb appeal to your home and show your commitment to a well maintained and cared for home. Calgary is known for it's extreme weather conditions, so a storm door can be a valuable investment for any homeowner. When it comes to adding value to your home, storm doors are a wise choice. Click our FREE ESTIMATE link and learn how KLAAD Glass Calgary can help!!"
             />
+            <AccordionItem
+              question="What makes KLAAD Glass different from other storm door installation companies in Calgary?"
+              answer="At KLAAD Glass, we pride ourselves on our exceptional customer service, high-quality products, and extensive experience in the industry. With over 25 years of serving Calgary residents, our team of skilled professionals ensures precise and efficient installation every time. We offer a wide variety of storm door styles and features, allowing you to choose the perfect fit for your home. Additionally, our commitment to using top-quality materials means your storm door will be durable and long-lasting. We also provide comprehensive repair and maintenance services, ensuring your storm door continues to perform optimally throughout the years."
+            />
+            <AccordionItem
+              question="How long does the storm door installation process take?"
+              answer="The installation process for a storm door typically takes a few hours, depending on the complexity of the project and the specific type of storm door you choose. Our team at KLAAD Glass is dedicated to providing efficient and hassle-free service. We begin with a thorough consultation to understand your needs and preferences, followed by precise measurements and customization if required. On the installation day, our technicians will arrive on time, equipped with all necessary tools and materials, and complete the installation with minimal disruption to your daily routine. We strive to ensure that the entire process is smooth and satisfactory from start to finish."
+            />
+            <AccordionItem
+              question="Do you offer any warranties or guarantees on your storm doors and installation services?"
+              answer="Yes, at KLAAD Glass, we stand behind the quality of our products and services. We offer comprehensive warranties on our storm doors, covering any manufacturing defects and ensuring long-term durability. Additionally, our installation services come with a satisfaction guarantee. If you encounter any issues with your storm door installation, our team will promptly address and resolve them to your satisfaction. Our goal is to provide you with peace of mind and confidence in your investment, knowing that your home is protected by a high-quality storm door installed by experienced professionals."
+            />
           </div>
         </Flex>
       </Container>

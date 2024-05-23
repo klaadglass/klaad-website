@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "styled-components"
-import { AnchorInline, ButtonInline } from "./buttons"
+import { AnchorInline, ButtonInline, AnchorPrimary } from "./buttons"
 import ServiceForm from "./forms/serviceForm"
 import { Container, Section } from "./layoutComponents"
 
@@ -105,6 +105,10 @@ export default function ServicePage(props) {
             <div>
               <p>{props.mainContent}</p>
             </div>
+            <center>
+            <AnchorPrimary href="tel: 403-272-8932">
+                  Call Us: 403-272-8932
+                </AnchorPrimary></center>
             <Img>
               <img src={props.mainImg} alt={props.mainAlt} />
             </Img>
@@ -132,6 +136,12 @@ export default function ServicePage(props) {
                 to book a service, or use our{" "}
                 <ButtonInline to="/contact">online contact form.</ButtonInline>
               </p>
+              <br/>
+              <center>
+              <AnchorPrimary href="tel: 403-272-8932">
+                  Call Us: 403-272-8932
+                </AnchorPrimary>
+                </center>
             </ServiceAreas>
           </Content>
         </Wrapper>

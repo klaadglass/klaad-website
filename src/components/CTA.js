@@ -1,7 +1,7 @@
 import { StaticImage } from "gatsby-plugin-image"
 import React from "react"
 import styled from "styled-components"
-import { AnchorInline, ButtonPrimary } from "./buttons"
+import { AnchorInline, ButtonPrimary, AnchorPrimary } from "./buttons"
 import { Actions, Container, Flex, Section } from "./layoutComponents"
 
 const Wrapper = styled.div`
@@ -33,11 +33,9 @@ export default function CTA(props) {
                 estimate on your next window or door project!
               </p>
               <Actions>
-                <ButtonPrimary to="/contact">book online</ButtonPrimary>
-                <AnchorInline className="bold italics" href="tel: 403-272-8932">
-                  <span className="light">Or Call Us:</span> <br />
-                  403-272-8932
-                </AnchorInline>
+                <AnchorPrimary href="tel: 403-272-8932">
+                  Call Us: 403-272-8932
+                </AnchorPrimary>
               </Actions>
             </Text>
           </Flex>

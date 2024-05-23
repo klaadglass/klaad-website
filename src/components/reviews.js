@@ -135,6 +135,7 @@ const AllReviews = () => {
                 review="KLAAD is a very professional and reliable glass installer of ours. We use him for service repairs on windows/doors as well as sealed unit installs. I highly recommend their service to anyone who is in need of repairs and installs.
             10/10 recommend"
               />
+              <Review name="Balaji K" review="We had an amazing experience working with Kladd, a very nice guy who lead me through the beginning to the finish point of the installation in my house. They did it very well, within 2 hours, everything was professional and its looking amazing now. I would highly recommend these guys. Thanks!" />
             </GridAuto>
           </Container>
         </Content>
