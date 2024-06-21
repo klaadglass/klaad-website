@@ -13,33 +13,28 @@ export default function StormGallery() {
         <GridThree>
           <StaticImage
             className="stretch"
-            src="../images/gallery/window-repair-gallery-1.jpg"
+            src="../images/storm-doors/calgary-ab-storm-door.jpeg"
             alt="storm door installations calgary"
           />
           <StaticImage
             className="stretch"
-            src="../images/gallery/window-repair-gallery-2.jpg"
-            alt="calgary storm doors"
+            src="../images/storm-doors/calgary-storm-door-installation.jpeg"
+            alt="storm door installations calgary"
           />
           <StaticImage
             className="stretch"
-            src="../images/gallery/window-repair-gallery-3.jpg"
-            alt="storm doors in calgary, ab"
+            src="../images/storm-doors/calgary-storm-door.jpeg"
+            alt="storm door installations calgary"
           />
           <StaticImage
             className="stretch"
-            src="../images/gallery/window-repair-gallery-4.jpg"
-            alt="storm door repair calgary, ab"
+            src="../images/storm-doors/storm-door-installer.jpeg"
+            alt="storm door installations calgary"
           />
           <StaticImage
             className="stretch"
-            src="../images/gallery/window-repair-gallery-5.jpg"
-            alt="storm doors alberta"
-          />
-          <StaticImage
-            className="stretch"
-            src="../images/gallery/window-repair-gallery-6.jpg"
-            alt="klaad glass storm doors"
+            src="../images/storm-doors/storm-doors-in-calgary.jpeg"
+            alt="storm door installations calgary"
           />
           {/* <StaticImage
             className="stretch"

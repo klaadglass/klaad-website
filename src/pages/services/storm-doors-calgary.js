@@ -88,6 +88,11 @@ export default function StormDoorsCalgary() {
               Discover the benefits of professionally installed storm doors Canada today. Contact KLAAD Glass for a consultation and let us help you enhance your home's protection, efficiency, and beauty.
 </p>
 
+              <p className="subheader">
+                
+                <a href="/images/brochure.pdf" download>Download the KLAAD Glass Storm Door Brochure
+</a>
+                </p>
               <p>
                 Call us at{" "}
                 <AnchorInline href="tel: 403-272-8932">

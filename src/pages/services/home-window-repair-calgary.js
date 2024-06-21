@@ -38,7 +38,7 @@ export default function HomeWindowRepair() {
   return (
     <Layout>
       <SEO
-        title="Best Home Window Repair Services Calgary - KLAAD Glass"
+        title="Home Window Repair Calgary, AB - Window Repairs, Replacements & Installation"
         description="KLAAD Glass Ltd. does the big residential window repair jobs no one else wants to do!  Large home & high-rise window repair Calgary! Call 403-272-8932."
       />
       <BannerSecondary
@@ -49,25 +49,27 @@ export default function HomeWindowRepair() {
         to3="/services/home-window-repair-calgary"
         link3="home window repair calgary"
         title="best home window repair services in calgary - we fix large windows!"
-        description="KLAAD Glass Ltd. does the big residential window repair jobs no one else wants to do! Large home & highrise window repair Calgary!"
+        description="KLAAD Glass Ltd. does the big residential Calgary home window repair jobs no one else wants to do! Large home & highrise window repairs, replacements, and installations in Calgary!"
         img={BannerImg}
-        alt="best home window repair services in calgary"
+        alt="best home window repair calgary, ab"
       />
       <ServicePage
-        title="home window repair calgary"
+        title="home window repair calgary, AB"
         subtitle="calgary's trusted window repair and replacement company"
         mainContent="Home window repair and replacement is a common need in Calgary. There are many reasons why windows may become damaged and need to be replaced. The most common cause of window damage in Calgary is severe weather, damage caused by others, or they have simply outlasted their service life. We know Calgary's weather can produce the high winds that can break glass, or the  hail that can cause cracks or chips or even outright breakage to the degree of weather penetration... very serious problems indeed!! These issues and others we haven't even mentioned means it is important to have a go-to home window repair Calgary company for your home or business that can also help when hail damage or other repairs are needed. Even common occurrences like our extreme cold can cause glass to become brittle and break or even “fail” and loose their insulating capacity. Hockey pucks, sling shots, baseball games, not so good golf shots or other debris can cause unexpected window and glass damage, as unintentional as they may be. If you have damage to your windows, it is important to contact your reputable Calgary window repair contractor as soon as possible. At KLAAD Glass, we will be able to assess the damage and recommend the best course of action. In some cases, the damage may be minor and a little TLC or home window replacement Calgary is all that is needed. However, if the damage is extensive, we are the people to talk to. Regardless of the extent of the damage, it is important to have it addressed as soon as possible to avoid further damage to your home."
         mainImg={MainImg}
-        mainAlt="home window repair calgary"
+        mainAlt="home window repair in calgary, ab"
       />
 
       <Section>
         <Container>
           <div className="center spacing">
             <h3 className="italics title bold caps">
-              request a service on your home window
+              A General Approach to Calgary Home Window Repair Services
             </h3>
-            <p>
+            <p>At KLAAD Glass, we take pride in being the go-to experts for window repair Calgary residents trust. Our friendly, laid-back yet professional team is dedicated to providing top-notch window repair and replacement services, ensuring your home stays cozy and secure. Whether you're dealing with cracked glass, foggy panes, or worn-out seals, we've got you covered.
+
+As proud Calgarians, we understand the unique challenges that Alberta's climate can bring. From icy winters to sunny summers, our expert team ensures your windows are in perfect condition year-round. No shortcuts, just quality work from a local team that treats every home as if it were our own.
               Call us at{" "}
               <AnchorInline href="tel: 403-272-8932">403-272-8932</AnchorInline>{" "}
               or fill out our contact form to reuest a service or free estimate
@@ -86,6 +88,8 @@ export default function HomeWindowRepair() {
                 <h2 className="title bold italics">
                   Calgary’s Experts in large home window repairs
                 </h2>
+                <div>
+                  <h3 className="subheader bold italics caps">general Calgary window repairs and replacement services</h3>
                 <p>
                   At KLAAD Glass, we've seen the evolution of the modern home!!
                   It used to be single story homes with regular glass sizes, but
@@ -105,9 +109,51 @@ export default function HomeWindowRepair() {
                   window repairs to your existing windows, we can help. Contact
                   us today to schedule a consultation.
                 </p>
-                <ButtonUnderline to="/contact">
-                  get free estimate &#x2192;
-                </ButtonUnderline>
+                </div>
+                
+                <div>
+                  <h3 className="subheader bold italics caps">Broken glass repairs Calgary</h3>
+                  <p>Accidents happen, but broken windows don't have to be a permanent problem. At KLAAD Glass, we offer quick and efficient glass repair in Calgary. Our team can handle everything from minor chips to major cracks, ensuring your home remains safe and secure. We use high-quality materials to match your existing windows, providing seamless repairs.</p>
+                </div>
+                <div>
+                  <h3 className="subheader bold italics caps">Leaking Window Repair Calgary</h3>
+                  <p>Leaky windows can lead to water damage and increased energy bills. Our Calgary window repair services include thorough inspections and repairs to seal any leaks. Whether it's replacing weatherstripping, re-caulking, or fixing structural issues, we've got the expertise to keep your home dry and comfortable.
+
+</p>
+                </div>
+                <div>
+                  <h3 className="subheader bold italics caps">Recaulking and Caulking Services Calgary</h3>
+                  <p>Proper caulking is essential for preventing drafts and moisture intrusion. Our window repair for homes includes expert recaulking and caulking services. We'll ensure your windows are properly sealed, enhancing energy efficiency and comfort. Our meticulous approach guarantees long-lasting results, no matter the weather.
+</p>
+                </div>
+                <div>
+                  <h3 className="subheader bold italics caps">Casement Handle Replacements
+</h3>
+                  <p>A faulty casement handle can make opening and closing your windows a hassle. At KLAAD Glass, we offer casement handle replacements as part of our window mechanism repairs. Our friendly team will have your windows operating smoothly again, so you can enjoy fresh air with ease.
+
+</p>
+                </div>
+                <div>
+                  <h3 className="subheader bold italics caps">Window Mechanism Repairs and Replacements
+</h3>
+                  <p>From stuck sashes to broken locks, window mechanisms can cause a variety of issues. Our window repair services in Calgary include comprehensive mechanism repairs and replacements. We'll diagnose the problem and provide a solution that restores full functionality to your windows.
+
+</p>
+                </div>
+                <div>
+                  <h3 className="subheader bold italics caps">Calgary Door Hardware Repairs and Replacements
+</h3>
+                  <p>Your doors deserve just as much attention as your windows. KLAAD Glass offers door hardware repairs and replacements, ensuring your home is secure and accessible. Whether it's a front door or a patio door, we handle everything from hinges to locks with the same care and precision.
+
+</p>
+                </div>
+                <div>
+                  <h3 className="subheader bold italics caps">Calgary window lock repairs</h3>
+                  <p>Security is a top priority, and a faulty window lock can compromise your home's safety. Our window lock repair services in Calgary ensure that your locks are in perfect working order. We'll fix or replace any faulty components, providing peace of mind and enhanced security.
+
+</p>
+                </div>
+                <ButtonPrimary to="/contact">get free estimate</ButtonPrimary>
               </div>
               <StaticImage
                 src="../../images/large-home-window-installation-calgary.jpeg"
@@ -122,7 +168,7 @@ export default function HomeWindowRepair() {
                 className="stretch"
               />
               <div className="spacing">
-                <h2 className="title bold italics">Window repair costs</h2>
+                <h2 className="title bold italics">Window repair costs Calgary</h2>
                 <p>
                   Residential window replacement cost Calgary can vary depending
                   on a number of factors, such as the size and style of the
@@ -145,6 +191,15 @@ export default function HomeWindowRepair() {
                   project. We can help you find a quality window at a price that
                   fits your budget.
                 </p>
+                <div>
+                  <h3 className="subheader bold italics ca">How to Fix a Broken Window Without Replacing It</h3>
+                  <p>Fixing a broken window doesn't always mean a full replacement. At KLAAD Glass, we offer expert repairs for cracked or damaged windows, including innovative techniques to preserve your existing window's integrity. This approach not only saves you money but also ensures your home remains secure and insulated.</p>
+                </div>
+                <div>
+                  <h3 className="subheader bold italics ca">Broken Double-Pane Window Costs</h3>
+                  <p>Double-pane windows provide enhanced insulation, but when they break, costs can vary. Our Calgary window repair services cover everything from minor repairs to full replacements, ensuring your double-pane windows regain their efficiency and clarity without breaking the bank.</p>
+                </div>
+                
                 <ButtonUnderline to="/contact">
                   get free estimate &#x2192;
                 </ButtonUnderline>
@@ -153,7 +208,7 @@ export default function HomeWindowRepair() {
             <Flex>
               <div className="spacing">
                 <h2 className="title bold italics">
-                  Have moisture and fog in your windows?
+                  Have moisture and fog in your Calgary home windows?
                 </h2>
                 <p>
                   We can help with that! If you have ever noticed moisture or
@@ -175,6 +230,7 @@ export default function HomeWindowRepair() {
                   clear, fog-free windows in no time, and restore that beautiful
                   view!
                 </p>
+                <p>Foggy windows can be a real nuisance, obstructing your view of Calgary's beautiful landscapes. Our window repair services include specialized foggy window repairs Calgary. We'll restore your windows to their clear, pristine state, improving both aesthetics and energy efficiency. Say goodbye to condensation and hello to clear, beautiful windows.</p>
                 <ButtonUnderline to="/contact">
                   get free estimate &#x2192;
                 </ButtonUnderline>
@@ -193,7 +249,7 @@ export default function HomeWindowRepair() {
               />
               <div className="spacing">
                 <h2 className="title bold italics">
-                  Triple pane window upgrades
+                  Triple pane window upgrades Calgary
                 </h2>
                 <p>
                   Are you interested in achieving greater energy efficiency in
@@ -215,6 +271,17 @@ export default function HomeWindowRepair() {
                   and installation services and we always offer competitive
                   rates and quality workmanship.
                 </p>
+                <div>
+                  <h3 className="subheader bold italics ca">Benefits of Triple Pane Windows</h3>
+                  <p>Triple pane windows offer superior insulation, reducing energy costs and enhancing comfort year-round. Our triple pane window upgrades in Calgary not only improve thermal efficiency but also contribute to noise reduction and increased home value. Discover the benefits of triple pane windows with KLAAD Glass.</p>
+                </div>
+                <div>
+                  <h3 className="subheader bold italics ca">Cost Savings with Triple Pane Windows
+
+</h3>
+                  <p>Investing in triple pane windows can lead to significant long-term savings on heating and cooling bills. At KLAAD Glass, we provide transparent pricing and expert installation services to ensure you maximize your energy efficiency and savings with triple pane windows.</p>
+                </div>
+                
                 <ButtonUnderline to="/contact">
                   get free estimate &#x2192;
                 </ButtonUnderline>
@@ -222,7 +289,7 @@ export default function HomeWindowRepair() {
             </FlexMobileOpp>
             <Flex>
               <div className="spacing">
-                <h2 className="title bold italics">Window rot repair</h2>
+                <h2 className="title bold italics">Window rot repair Calgary</h2>
                 <p>
                   Window rotting is a serious problem that should be addressed
                   as soon as possible. Window rot can cause structural damage to
@@ -237,6 +304,18 @@ export default function HomeWindowRepair() {
                   overlooked window maintenance procedure. Contact us today to
                   learn more!
                 </p>
+                <div>
+                  <h3 className="subheader bold italics ca">Signs You Need Window Rot Repair
+
+</h3>
+                  <p>Recognizing the signs of window rot early can save you from extensive damage. Look out for peeling paint, soft or discolored wood, or a musty odor near windows. Our expert team at KLAAD Glass offers prompt window rot repair in Calgary to restore your windows and prevent further deterioration.
+
+</p>
+                </div>
+                <div>
+                  <h3 className="subheader bold italics ca">Causes of Window Rot</h3>
+                  <p>Understanding the causes of window rot, such as moisture infiltration and poor ventilation, is crucial for preventing costly repairs. Our Calgary window rot repair services address the root causes to ensure long-lasting solutions and protect your home's structural integrity.</p>
+                </div>
                 <ButtonUnderline to="/contact">
                   get free estimate &#x2192;
                 </ButtonUnderline>
@@ -255,7 +334,7 @@ export default function HomeWindowRepair() {
               />
               <div className="spacing">
                 <h2 className="title bold italics">
-                  Skylight installations & repairs
+                  Skylight installations & repairs Calgary
                 </h2>
                 <p>
                   Skylights are a great way to let natural light into your home
@@ -280,7 +359,7 @@ export default function HomeWindowRepair() {
             <Flex>
               <div className="spacing">
                 <h2 className="title bold italics">
-                  Door installations and repairs
+                  Door installations and repairs Calgary
                 </h2>
                 <p>
                   We offer windows and doors Calgary services, and we specialize
@@ -294,6 +373,14 @@ export default function HomeWindowRepair() {
                   happy to help. So why wait? Contact us today and let us help
                   you find the perfect windows and doors for your home.
                 </p>
+                <div>
+                  <h3 className="subheader bold italics ca">Patio Door Installation Costs</h3>
+                  <p>Planning for patio door installation in Calgary? Our transparent pricing and expert installation services ensure you get the best value for your investment. Whether it's a sliding patio door or French doors, KLAAD Glass provides competitive pricing and superior craftsmanship.</p>
+                  </div>
+                <div>
+                  <h3 className="subheader bold italics ca">Interior Door Frame Considerations</h3>
+                  <p>Choosing the right interior door frame is crucial for functionality and aesthetics. Our doors Calgary services include expert advice on frame materials, styles, and finishes to complement your home's interior design. Trust KLAAD Glass for professional interior door frame installations and repairs.</p>
+                  </div>
                 <ButtonUnderline to="/contact">
                   get free estimate &#x2192;
                 </ButtonUnderline>

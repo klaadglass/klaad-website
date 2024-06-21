@@ -58,7 +58,7 @@ export default function Guarantee() {
         <GridWrapper>
           <Img>
             <StaticImage
-              src="../images/window-installation-truck.jpg"
+              src="../images/main.jpg"
               alt="truck used for window installations"
             />
           </Img>
