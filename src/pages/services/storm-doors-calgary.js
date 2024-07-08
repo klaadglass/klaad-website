@@ -90,7 +90,7 @@ export default function StormDoorsCalgary() {
 
               <p className="subheader">
                 
-                <a href="/images/brochure.pdf" download>Download the KLAAD Glass Storm Door Brochure
+                <a href="/images/klaad-glass-storm-door-brochure.pdf" download>Download the KLAAD Glass Storm Door Brochure
 </a>
                 </p>
               <p>
